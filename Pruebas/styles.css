@@ -1,0 +1,16 @@
+
+legend, label, h1{
+    color: gold;
+}
+
+legend{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: large;
+}
+input{
+    display: block;
+}
+#submit, #reset{
+    display: inline;
+}
